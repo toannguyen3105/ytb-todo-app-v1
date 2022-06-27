@@ -13,7 +13,7 @@ const AppHeader = () => {
         variant="primary"
         onClick={() => setModalOpen(true)}
       >
-        Add task
+        Add task 2
       </Button>
 
       <SelectButton id="status">
